@@ -25,14 +25,17 @@
   "dart.flutterSdkPath": "/Users/shedup/flutter",
   "gitlens.mode.active": "zen",
 
+  // VIM Settings
   "editor.lineNumbers": "relative",
+  // Incremental search using / in vim
   "vim.incsearch": true,
   "vim.hlsearch": true,
-  "vim.smartcase": false,
+  "vim.smartcase": false, // Ignore casing when search
   // Yank Highlight
   "vim.highlightedyank.enable": true,
   "vim.highlightedyank.duration": 150,
 
+  // Unhighlight searched terms.
   "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["<C-n>"],
