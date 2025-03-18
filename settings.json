@@ -1,0 +1,43 @@
+{
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "explorer.confirmDelete": false,
+  "editor.fontFamily": "'courier'",
+  "editor.fontSize": 14,
+  "code-runner.runInTerminal": true,
+  "workbench.preferredDarkColorTheme": "Monokai",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "dart.flutterSdkPath": "/Users/shedup/flutter",
+  "gitlens.mode.active": "zen",
+
+  "editor.lineNumbers": "relative",
+  "vim.incsearch": true,
+  "vim.hlsearch": true,
+  "vim.smartcase": false,
+  // Yank Highlight
+  "vim.highlightedyank.enable": true,
+  "vim.highlightedyank.duration": 150,
+
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    }
+  ],
+  "editor.cursorSurroundingLines": 8
+}
